@@ -16,3 +16,5 @@ libmemcache-dev
 libmemcached-dev
 python-scipy
 cython
+thumbor
+requests
